@@ -1,0 +1,13 @@
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.csprojAssemblyReference.cache
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.AssemblyInfoInputs.cache
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.AssemblyInfo.cs
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.exe
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.deps.json
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.runtimeconfig.json
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.runtimeconfig.dev.json
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.dll
+C:\Users\Евгения\source\repos\Task__3\Task__3\bin\Debug\netcoreapp3.1\Task__3.pdb
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.dll
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.pdb
+C:\Users\Евгения\source\repos\Task__3\Task__3\obj\Debug\netcoreapp3.1\Task__3.genruntimeconfig.cache
